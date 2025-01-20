@@ -1,0 +1,2 @@
+# Global-internet-overview-analysis-for-the-year-1980---2020
+This project provides a comprehensive analysis of the global internet user trends and cellular/broadband subscription patterns between 1980 and 2020. This analysis highlights critical insights, offers actionable recommendations, and discusses the implications of the findings on decision-making and potential areas for further investigation
